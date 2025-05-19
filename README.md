@@ -1,6 +1,9 @@
-#Equipo
+Equipo
+
 Barron Mojica Fernando de Jesus
+
 Perez Soto Alan Jared
+
 Hernandez Moreno Marcos Eduardo
 
 # Pet-Feeder
